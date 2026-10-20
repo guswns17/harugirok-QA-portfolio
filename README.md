@@ -1,7 +1,7 @@
 # 하루기록 QA 포트폴리오
 
 ## 프로젝트 소개
-기록 관리 웹사이트(https://guswns17.github.io/harugirok/)를
+기록 관리 웹사이트(https://guswns17.github.io/harugirok/)
 수동 테스트하고, Python + Selenium으로 자동화했습니다.
 
 ## 테스트 범위
